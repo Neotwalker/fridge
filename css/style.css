@@ -1306,7 +1306,6 @@ a.btn_test:after {
 .footer .info a{
   color: #fff;
 }
-
 .footer .info .powered,
 .footer .info .powered a{
   color: #868a8d;
@@ -1921,6 +1920,9 @@ a.btn_test:after {
   }
   .footer .info .copyright{
     margin-bottom: 20px;
+  }
+  .price_table .table-info_price{
+    text-align: right;
   }
 }
 @media (min-width: 576px) {
