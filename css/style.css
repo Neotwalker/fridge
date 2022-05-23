@@ -1925,6 +1925,9 @@ a.btn_test:after {
   .table-info thead th:last-child{
     text-align: right;
   }
+  .layout{
+    margin-bottom: 20px;
+  }
 }
 @media (min-width: 576px) {
   .container,
