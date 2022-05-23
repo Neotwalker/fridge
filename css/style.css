@@ -568,6 +568,7 @@ a.btn_test:after {
 .master .center > img {
   position: absolute;
   right: 54%;
+  top: 10%;
 }
 .master .col {
   margin-left: 49%;
