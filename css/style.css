@@ -1951,7 +1951,9 @@ a.btn_test:after {
   .header .menu_list_mob .close{
     top: 2%;
   }
-  
+  .master .center > img{
+    opacity: 0.5;
+  }
 }
 @media (min-width: 576px) {
   .container,
