@@ -1562,7 +1562,6 @@ a.btn_test:after {
   }
   .main .main_bg {
     width: 160%;
-    opacity: 0;
   }
   .main .sub_header {
     width: 100%;
@@ -1660,7 +1659,6 @@ a.btn_test:after {
   }
   .main .main_bg {
     width: 160%;
-    opacity: 0;
   }
   .main .sub_header {
     margin-top: 30px;
