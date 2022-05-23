@@ -586,6 +586,7 @@ a.btn_test:after {
 }
 .master .col ul {
   padding-top: 5px;
+  list-style-type: disc;
   padding-bottom: 10px;
 }
 .master .col ul li {
