@@ -412,11 +412,11 @@ a.btn_test:after {
   max-width: 40%;
   display: flex;
   height: fit-content;
+  align-items: flex-start;
 }
 .header .logo .logo_text{
   width: fit-content;
   font-weight: bold;
-  text-align: center;
   color: #1c93e2;
 }
 .header .logo .mini_text{
@@ -1927,6 +1927,9 @@ a.btn_test:after {
   }
   .layout{
     margin-bottom: 20px;
+  }
+  .header .menu_list_mob .close{
+    top: 2%;
   }
 }
 @media (min-width: 576px) {
