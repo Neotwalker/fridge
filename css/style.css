@@ -1921,7 +1921,9 @@ a.btn_test:after {
   .footer .info .copyright{
     margin-bottom: 20px;
   }
-  .price_table .table-info_price{
+  .price_table .table-info_price,
+  .table-info thead th:nth-child(2), 
+  .table-info thead th:last-child{
     text-align: right;
   }
 }
