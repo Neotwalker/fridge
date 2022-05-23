@@ -1053,6 +1053,9 @@ a.btn_test:after {
   flex: 50%;
   margin-right: 30px;
 }
+.diagnostic .image img{
+  width: 100%;
+}
 .diagnostic .block_text{
   max-width: 45%;
   flex: 45%;
