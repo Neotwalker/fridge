@@ -1643,6 +1643,9 @@ a.btn_test:after {
   .diagnostic .image{
     margin-right: 0;
     margin-bottom: 20px;
+    width: 100%;
+    flex: 100%;
+    max-width: 100%;
   }
   .diagnostic .content{
     flex-direction: row;
