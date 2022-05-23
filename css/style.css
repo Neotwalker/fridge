@@ -1306,6 +1306,11 @@ a.btn_test:after {
 .footer .info a{
   color: #fff;
 }
+
+.footer .info .powered,
+.footer .info .powered a{
+  color: #868a8d;
+}
 @media screen and (max-width: 1921px) {
   .main, .header .row, .content, .center{
     max-width: 1440px;
@@ -1893,6 +1898,29 @@ a.btn_test:after {
   .choice .blocks .block{
     flex: 1 1 100%;
     max-width: 100%;
+  }
+  .footer .content{
+    flex-direction: column;
+  }
+  .footer #menu {
+    display: none;
+  }
+  .footer .wrap{
+    flex-direction: column;
+    max-width: 100%;
+  }
+  .footer .wrap .phone{
+    margin-bottom: 20px;
+  }
+  .btn, a.btn{
+    max-width: 100%;
+  }
+  .footer .info{
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .footer .info .copyright{
+    margin-bottom: 20px;
   }
 }
 @media (min-width: 576px) {
