@@ -1529,6 +1529,7 @@ a.btn_test:after {
   .header .menu_list_mob #menu .menu_item{
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-left: 0;
   }
   .header .menu_list_mob #menu .menu_item a{
     color: #fff;
@@ -1931,6 +1932,7 @@ a.btn_test:after {
   .header .menu_list_mob .close{
     top: 2%;
   }
+  
 }
 @media (min-width: 576px) {
   .container,
